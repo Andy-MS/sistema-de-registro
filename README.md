@@ -5,3 +5,5 @@
 - Para ejecutar el sistema, debes poner:
 
   ```npm install create```
+
+Sitema de Registro 2
